@@ -1,0 +1,868 @@
+[
+  {
+    "ids": [
+      "A02",
+      "A05",
+      "A06"
+    ],
+    "file": "A_start/A05_prime_selection.png",
+    "title": "한국어 SPIKE 솔루션 선택",
+    "url": "https://spike.legoeducation.com/",
+    "state": "실제 웹앱, Hub 미연결",
+    "language": "한국어",
+    "viewport": "1600×1000",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 원본 화면 캡처"
+  },
+  {
+    "ids": [
+      "B01",
+      "B02",
+      "B03"
+    ],
+    "file": "B_project/B03_word_blocks.png",
+    "title": "새 프로젝트 이름과 단어 블록 선택",
+    "url": "https://spike.legoeducation.com/prime/lobby/",
+    "state": "신규 프로젝트 생성 전",
+    "language": "한국어",
+    "viewport": "1600×1000",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 원본 화면 캡처"
+  },
+  {
+    "ids": [
+      "B05",
+      "C01",
+      "C02",
+      "C03",
+      "C04",
+      "C05",
+      "D01",
+      "D02"
+    ],
+    "file": "C_canvas/C01_word_canvas.png",
+    "title": "단어 블록 프로젝트 전체 화면과 미연결 Hub",
+    "url": "https://spike.legoeducation.com/prime/project",
+    "state": "새 프로젝트, Hub 미연결",
+    "language": "한국어",
+    "viewport": "1600×1000",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 원본 화면 캡처"
+  },
+  {
+    "ids": [
+      "D02"
+    ],
+    "file": "D_hub/D02_connection_start.png",
+    "title": "연결 전 전원 버튼 색상 선택 안내",
+    "url": "https://spike.legoeducation.com/prime/modal/connecting",
+    "state": "실제 Hub OS 상태를 판정한 화면이 아님; 연결 전 안내",
+    "language": "한국어",
+    "viewport": "1600×1000",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 원본 화면 캡처"
+  },
+  {
+    "file": "D_hub/D03_bluetooth_guide.png",
+    "title": "블루투스 연결 전 안내",
+    "ids": [
+      "D03"
+    ],
+    "state": "Hub 검색 전 안내. 실제 Hub 검색/연결은 수행하지 않음",
+    "language": "한국어",
+    "viewport": "1600×1000",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 원본 화면 캡처",
+    "url": "https://spike.legoeducation.com/ (개별 프로젝트 URL 미기록)"
+  },
+  {
+    "file": "D_hub/D07_usb_guide.png",
+    "title": "USB 연결 전 안내",
+    "ids": [
+      "D07"
+    ],
+    "state": "USB 연결 전 안내. 실제 장치 선택/연결은 수행하지 않음",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 원본 화면 캡처",
+    "url": "https://spike.legoeducation.com/ (개별 프로젝트 URL 미기록)",
+    "language": "한국어"
+  },
+  {
+    "file": "E_driving_base/E01_build_menu.png",
+    "title": "조립 메뉴와 드라이빙 베이스 1·2·3",
+    "ids": [
+      "E01",
+      "E02"
+    ],
+    "url": "https://spike.legoeducation.com/prime/models/",
+    "state": "앱 조립 설명서 목록",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 원본 화면 캡처",
+    "language": "한국어"
+  },
+  {
+    "file": "E_driving_base/E03_step1.png",
+    "title": "드라이빙 베이스 1 조립 첫 화면",
+    "ids": [
+      "E03"
+    ],
+    "state": "공식 34단계 조립 안내",
+    "url": "https://spike.legoeducation.com/prime/models/bltc58e302d70cf6530",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 원본 화면 캡처",
+    "language": "한국어"
+  },
+  {
+    "file": "E_driving_base/E09_step34.png",
+    "title": "드라이빙 베이스 1 조립도 33단계 케이블",
+    "ids": [
+      "E07"
+    ],
+    "state": "공식 조립도. 실물 조립·포트 검증은 별도",
+    "url": "https://spike.legoeducation.com/prime/models/bltc58e302d70cf6530",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 원본 화면 캡처",
+    "language": "한국어"
+  },
+  {
+    "file": "L_python/L01_python_project.png",
+    "title": "Python 프로젝트 만들기",
+    "ids": [
+      "B04",
+      "L01"
+    ],
+    "state": "실제 Python 선택",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 원본 화면 캡처",
+    "url": "https://spike.legoeducation.com/ (개별 프로젝트 URL 미기록)",
+    "language": "한국어"
+  },
+  {
+    "file": "L_python/L02_default_editor.png",
+    "title": "Python 기본 편집 화면",
+    "ids": [
+      "L02",
+      "L03"
+    ],
+    "state": "앱 기본 코드. Hub 미연결",
+    "url": "https://spike.legoeducation.com/prime/project",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 원본 화면 캡처",
+    "language": "한국어"
+  },
+  {
+    "file": "L_python/L08_distance_code.png",
+    "title": "거리센서 정지 Python 예제 입력",
+    "ids": [
+      "L04",
+      "L05",
+      "L06",
+      "L08",
+      "L09",
+      "L10",
+      "P04"
+    ],
+    "state": "교안 코드를 실제 앱 편집기에 입력. 실물 Hub 실행 미검증",
+    "url": "https://spike.legoeducation.com/prime/project",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 원본 화면 캡처",
+    "language": "한국어"
+  },
+  {
+    "file": "F_motor/F01_movement_palette.png",
+    "title": "동작 블록",
+    "ids": [
+      "F01",
+      "F03",
+      "F08",
+      "F10"
+    ],
+    "state": "실제 블록 도구 상자. Hub 미연결, 숫자·포트는 기본값",
+    "url": "https://spike.legoeducation.com/prime/project",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 원본 화면 캡처",
+    "language": "한국어"
+  },
+  {
+    "file": "K_control/K01_control_palette.png",
+    "title": "조건·반복 블록",
+    "ids": [
+      "K01",
+      "K02",
+      "K03",
+      "K04",
+      "K05"
+    ],
+    "state": "실제 블록 도구 상자. Hub 미연결, 숫자·포트는 기본값",
+    "url": "https://spike.legoeducation.com/prime/project",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 원본 화면 캡처",
+    "language": "한국어"
+  },
+  {
+    "file": "G_force/G02_sensor_palette.png",
+    "title": "힘·거리·컬러·자이로 블록",
+    "ids": [
+      "G02",
+      "H02",
+      "I02",
+      "I03",
+      "J01"
+    ],
+    "state": "실제 블록 도구 상자. Hub 미연결, 숫자·포트는 기본값",
+    "url": "https://spike.legoeducation.com/prime/project",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 원본 화면 캡처",
+    "language": "한국어"
+  },
+  {
+    "file": "K_control/K06_create_variable.png",
+    "title": "거리 변수 만들기",
+    "ids": [
+      "K06"
+    ],
+    "state": "실제 앱 조작. Hub 미연결",
+    "url": "https://spike.legoeducation.com/prime/project",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 원본 화면 캡처",
+    "language": "한국어"
+  },
+  {
+    "file": "K_control/K07_variable_palette.png",
+    "title": "생성된 거리 변수와 변수 블록",
+    "ids": [
+      "K07"
+    ],
+    "state": "실제 앱 조작. Hub 미연결",
+    "url": "https://spike.legoeducation.com/prime/project",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 원본 화면 캡처",
+    "language": "한국어"
+  },
+  {
+    "file": "E_driving_base/E09_finished.png",
+    "title": "드라이빙 베이스 1 완성 모형",
+    "ids": [
+      "E09"
+    ],
+    "state": "공식 조립 안내의 완성 이미지. 실물 조립 검증은 별도",
+    "url": "https://spike.legoeducation.com/prime/models/bltc58e302d70cf6530",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 원본 화면 캡처",
+    "language": "한국어"
+  },
+  {
+    "file": "F_motor/F04_first_drive.png",
+    "title": "A+E·속도 25%·앞으로 1초·정지 실제 블록",
+    "ids": [
+      "F02",
+      "F04",
+      "F08",
+      "F09"
+    ],
+    "state": "실제 앱에서 블록 연결. 실물 Hub 실행 미검증",
+    "url": "https://spike.legoeducation.com/prime/project",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 원본 화면 캡처",
+    "language": "한국어"
+  },
+  {
+    "file": "B_project/B03_word_detail.png",
+    "title": "단어 블록 프로젝트 생성 대화상자",
+    "ids": [
+      "B01",
+      "B02",
+      "B03"
+    ],
+    "state": "실제 생성 대화상자 영역 캡처",
+    "url": "https://spike.legoeducation.com/prime/project",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 원본 화면 캡처",
+    "language": "한국어"
+  },
+  {
+    "file": "L_python/L01_python_detail.png",
+    "title": "Python 프로젝트 생성 대화상자",
+    "ids": [
+      "B04",
+      "L01"
+    ],
+    "state": "실제 생성 대화상자 영역 캡처",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 원본 화면 캡처",
+    "url": "https://spike.legoeducation.com/ (개별 프로젝트 URL 미기록)",
+    "language": "한국어"
+  },
+  {
+    "file": "G_force/G02_sensor_top.png",
+    "title": "센서 도구 상자 상단",
+    "ids": [
+      "G02",
+      "H02",
+      "I02",
+      "I03"
+    ],
+    "state": "실제 앱 도구 상자 영역 캡처. Hub 미연결, 기본값은 실측값 아님",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 원본 화면 캡처",
+    "url": "https://spike.legoeducation.com/ (개별 프로젝트 URL 미기록)",
+    "language": "한국어"
+  },
+  {
+    "file": "G_force/G02_sensor_bottom.png",
+    "title": "센서 도구 상자 하단",
+    "ids": [
+      "J01"
+    ],
+    "state": "실제 앱 도구 상자 영역 캡처. Hub 미연결, 기본값은 실측값 아님",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 원본 화면 캡처",
+    "url": "https://spike.legoeducation.com/ (개별 프로젝트 URL 미기록)",
+    "language": "한국어"
+  },
+  {
+    "file": "K_control/K01_control_top.png",
+    "title": "조건·반복 도구 상자 상단",
+    "ids": [
+      "K01",
+      "K04",
+      "K05"
+    ],
+    "state": "실제 앱 도구 상자 영역 캡처. Hub 미연결, 기본값은 실측값 아님",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 원본 화면 캡처",
+    "url": "https://spike.legoeducation.com/ (개별 프로젝트 URL 미기록)",
+    "language": "한국어"
+  },
+  {
+    "file": "K_control/K01_control_bottom.png",
+    "title": "조건·반복 도구 상자 하단",
+    "ids": [
+      "K02",
+      "K03"
+    ],
+    "state": "실제 앱 도구 상자 영역 캡처. Hub 미연결, 기본값은 실측값 아님",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 원본 화면 캡처",
+    "url": "https://spike.legoeducation.com/ (개별 프로젝트 URL 미기록)",
+    "language": "한국어"
+  },
+  {
+    "file": "G_force/G04_press_start.png",
+    "title": "힘 C를 누르면 앞으로 1초",
+    "ids": [
+      "G04",
+      "K08",
+      "P01"
+    ],
+    "state": "실제 SPIKE 블록 편집기에 입력·렌더. 실물 Hub 실행 미검증",
+    "method": "Playwright MCP에서 실제 Blockly 편집기 XML 가져오기 API 사용. UI 합성 없음",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP에서 실제 Blockly 편집기 XML 가져오기 API 사용. UI 합성 없음",
+    "url": "https://spike.legoeducation.com/ (개별 프로젝트 URL 미기록)",
+    "language": "한국어"
+  },
+  {
+    "file": "H_distance/H04_stop20cm.png",
+    "title": "거리 B가 20cm 미만이면 정지",
+    "ids": [
+      "H04",
+      "K08"
+    ],
+    "state": "실제 SPIKE 블록 편집기에 입력·렌더. 실물 Hub 실행 미검증",
+    "method": "Playwright MCP에서 실제 Blockly 편집기 XML 가져오기 API 사용. UI 합성 없음",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP에서 실제 Blockly 편집기 XML 가져오기 API 사용. UI 합성 없음",
+    "url": "https://spike.legoeducation.com/ (개별 프로젝트 URL 미기록)",
+    "language": "한국어"
+  },
+  {
+    "file": "H_distance/H05_stop15cm.png",
+    "title": "정지 기준을 15cm로 변경",
+    "ids": [
+      "H05"
+    ],
+    "state": "실제 SPIKE 블록 편집기에 입력·렌더. 실물 Hub 실행 미검증",
+    "method": "Playwright MCP에서 실제 Blockly 편집기 XML 가져오기 API 사용. UI 합성 없음",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP에서 실제 Blockly 편집기 XML 가져오기 API 사용. UI 합성 없음",
+    "url": "https://spike.legoeducation.com/ (개별 프로젝트 URL 미기록)",
+    "language": "한국어"
+  },
+  {
+    "file": "K_control/K09_repeat_distance.png",
+    "title": "반복에서 거리 조건으로 출발·정지",
+    "ids": [
+      "K09",
+      "K08",
+      "P02",
+      "L10",
+      "P04"
+    ],
+    "state": "실제 SPIKE 블록 편집기에 입력·렌더. 실물 Hub 실행 미검증",
+    "method": "Playwright MCP에서 실제 Blockly 편집기 XML 가져오기 API 사용. UI 합성 없음",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP에서 실제 Blockly 편집기 XML 가져오기 API 사용. UI 합성 없음",
+    "url": "https://spike.legoeducation.com/ (개별 프로젝트 URL 미기록)",
+    "language": "한국어"
+  },
+  {
+    "file": "I_color/I04_black_stop.png",
+    "title": "컬러 D가 검정이면 정지",
+    "ids": [
+      "I04"
+    ],
+    "state": "실제 SPIKE 블록 편집기에 입력·렌더. 실물 Hub 실행 미검증",
+    "method": "Playwright MCP에서 실제 Blockly 편집기 XML 가져오기 API 사용. UI 합성 없음",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP에서 실제 Blockly 편집기 XML 가져오기 API 사용. UI 합성 없음",
+    "url": "https://spike.legoeducation.com/ (개별 프로젝트 URL 미기록)",
+    "language": "한국어"
+  },
+  {
+    "file": "J_gyro/J04_turn90.png",
+    "title": "요 각도로 회전하고 5초 제한",
+    "ids": [
+      "J04"
+    ],
+    "state": "실제 SPIKE 블록 편집기에 입력·렌더. 실물 Hub 실행 미검증",
+    "method": "Playwright MCP에서 실제 Blockly 편집기 XML 가져오기 API 사용. UI 합성 없음",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP에서 실제 Blockly 편집기 XML 가져오기 API 사용. UI 합성 없음",
+    "url": "https://spike.legoeducation.com/ (개별 프로젝트 URL 미기록)",
+    "language": "한국어"
+  },
+  {
+    "file": "O_advanced/O03_basic_line.png",
+    "title": "반사광 기준으로 좌우 조향",
+    "ids": [
+      "O03",
+      "I06"
+    ],
+    "state": "실제 SPIKE 블록 편집기에 입력·렌더. 실물 Hub 실행 미검증",
+    "method": "Playwright MCP에서 실제 Blockly 편집기 XML 가져오기 API 사용. UI 합성 없음",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP에서 실제 Blockly 편집기 XML 가져오기 API 사용. UI 합성 없음",
+    "url": "https://spike.legoeducation.com/ (개별 프로젝트 URL 미기록)",
+    "language": "한국어"
+  },
+  {
+    "file": "H_distance/H07_distance_variable.png",
+    "title": "거리 변수 갱신과 정지 조건",
+    "ids": [
+      "H07",
+      "K10"
+    ],
+    "state": "실제 SPIKE 블록 편집기에 입력·렌더. 실물 Hub 실행 미검증",
+    "method": "Playwright MCP에서 실제 Blockly 편집기 XML 가져오기 API 사용. UI 합성 없음",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP에서 실제 Blockly 편집기 XML 가져오기 API 사용. UI 합성 없음",
+    "url": "https://spike.legoeducation.com/ (개별 프로젝트 URL 미기록)",
+    "language": "한국어"
+  },
+  {
+    "file": "O_advanced/O06_p_control.png",
+    "title": "오차 변수·계산·조향 제한 P 제어",
+    "ids": [
+      "O04",
+      "O05",
+      "O06",
+      "P03"
+    ],
+    "state": "실제 SPIKE 블록 편집기에 입력·렌더. 실물 Hub 실행 미검증",
+    "method": "Playwright MCP에서 실제 Blockly 편집기 XML 가져오기 API 사용. UI 합성 없음",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP에서 실제 Blockly 편집기 XML 가져오기 API 사용. UI 합성 없음",
+    "url": "https://spike.legoeducation.com/ (개별 프로젝트 URL 미기록)",
+    "language": "한국어"
+  },
+  {
+    "file": "O_advanced/O08_multi_sensor.png",
+    "title": "거리 정지 우선·컬러 반사광 주행",
+    "ids": [
+      "O08"
+    ],
+    "state": "실제 SPIKE 블록 편집기에 입력·렌더. 실물 Hub 실행 미검증",
+    "method": "Playwright MCP에서 실제 Blockly 편집기 XML 가져오기 API 사용. UI 합성 없음",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP에서 실제 Blockly 편집기 XML 가져오기 API 사용. UI 합성 없음",
+    "url": "https://spike.legoeducation.com/ (개별 프로젝트 URL 미기록)",
+    "language": "한국어"
+  },
+  {
+    "file": "L_python/L07_speed_function.png",
+    "title": "거리·속도 계산 함수 Python 편집 화면",
+    "ids": [
+      "L07",
+      "H06",
+      "P03"
+    ],
+    "state": "전체 함수 예제 입력. 실물 Hub 실행 미검증",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 원본 화면 캡처",
+    "url": "https://spike.legoeducation.com/ (개별 프로젝트 URL 미기록)",
+    "language": "한국어"
+  },
+  {
+    "file": "F_motor/F05_backward.png",
+    "title": "뒤로 1초 이동",
+    "ids": [
+      "F05"
+    ],
+    "state": "실제 SPIKE 블록 편집기에 입력·렌더. 실물 Hub 실행 미검증",
+    "method": "Playwright MCP에서 실제 Blockly 편집기 XML 가져오기 API 사용. UI 합성 없음",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP에서 실제 Blockly 편집기 XML 가져오기 API 사용. UI 합성 없음",
+    "url": "https://spike.legoeducation.com/ (개별 프로젝트 URL 미기록)",
+    "language": "한국어"
+  },
+  {
+    "file": "F_motor/F06_turn.png",
+    "title": "왼쪽으로 0.5초 회전",
+    "ids": [
+      "F06"
+    ],
+    "state": "실제 SPIKE 블록 편집기에 입력·렌더. 실물 Hub 실행 미검증",
+    "method": "Playwright MCP에서 실제 Blockly 편집기 XML 가져오기 API 사용. UI 합성 없음",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP에서 실제 Blockly 편집기 XML 가져오기 API 사용. UI 합성 없음",
+    "url": "https://spike.legoeducation.com/ (개별 프로젝트 URL 미기록)",
+    "language": "한국어"
+  },
+  {
+    "file": "F_motor/F07_turn.png",
+    "title": "오른쪽으로 0.5초 회전",
+    "ids": [
+      "F07"
+    ],
+    "state": "실제 SPIKE 블록 편집기에 입력·렌더. 실물 Hub 실행 미검증",
+    "method": "Playwright MCP에서 실제 Blockly 편집기 XML 가져오기 API 사용. UI 합성 없음",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP에서 실제 Blockly 편집기 XML 가져오기 API 사용. UI 합성 없음",
+    "url": "https://spike.legoeducation.com/ (개별 프로젝트 URL 미기록)",
+    "language": "한국어"
+  },
+  {
+    "file": "G_force/G05_toggle_state.png",
+    "title": "힘센서 누름마다 실행상태 전환",
+    "ids": [
+      "G05"
+    ],
+    "state": "실제 SPIKE 블록 편집기에 입력·렌더. 실물 Hub 실행 미검증",
+    "method": "Playwright MCP에서 실제 Blockly 편집기 XML 가져오기 API 사용. UI 합성 없음",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP에서 실제 Blockly 편집기 XML 가져오기 API 사용. UI 합성 없음",
+    "url": "https://spike.legoeducation.com/ (개별 프로젝트 URL 미기록)",
+    "language": "한국어"
+  },
+  {
+    "file": "F_motor/F11_individual_motor.png",
+    "title": "A와 E 모터 개별 회전 점검",
+    "ids": [
+      "F11"
+    ],
+    "state": "실제 SPIKE 블록 편집 상태. 실물 Hub 실행 미검증",
+    "method": "Playwright MCP 실제 Blockly XML 가져오기 API로 블록 구성 후 원본 캡처",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 실제 Blockly XML 가져오기 API로 블록 구성 후 원본 캡처",
+    "url": "https://spike.legoeducation.com/ (개별 프로젝트 URL 미기록)",
+    "language": "한국어"
+  },
+  {
+    "file": "J_gyro/J06_feedback.png",
+    "title": "자이로 오차의 부호에 따른 회전 보정",
+    "ids": [
+      "J06",
+      "O07"
+    ],
+    "state": "실제 SPIKE 블록 편집 상태. 실물 Hub 실행 미검증",
+    "method": "Playwright MCP 실제 Blockly XML 가져오기 API로 블록 구성 후 원본 캡처",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 실제 Blockly XML 가져오기 API로 블록 구성 후 원본 캡처",
+    "url": "https://spike.legoeducation.com/ (개별 프로젝트 URL 미기록)",
+    "language": "한국어"
+  },
+  {
+    "file": "C_canvas/C07_settings.png",
+    "title": "설정·앱 버전 3.6.1",
+    "ids": [
+      "C07"
+    ],
+    "url": "https://spike.legoeducation.com/prime/settings/",
+    "state": "공식 웹페이지 원본. 설치·장치 호환성 실제 시험은 미수행",
+    "language": "한국어",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 원본 화면 캡처"
+  },
+  {
+    "file": "A_start/A03_system_requirements.png",
+    "title": "공식 운영체제·하드웨어 요구 사항",
+    "ids": [
+      "A04"
+    ],
+    "url": "https://education.lego.com/en-us/product-resources/spike-prime/downloads/system-requirements/",
+    "state": "공식 웹페이지 원본. 설치·장치 호환성 실제 시험은 미수행",
+    "language": "영어",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 원본 화면 캡처"
+  },
+  {
+    "file": "A_start/A01_download.png",
+    "title": "공식 SPIKE App 3.6.1 다운로드 안내",
+    "ids": [
+      "A01"
+    ],
+    "url": "https://education.lego.com/en-us/downloads/spike-app/software/",
+    "state": "공식 웹페이지 원본. 설치·장치 호환성 실제 시험은 미수행",
+    "language": "영어",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 원본 화면 캡처"
+  },
+  {
+    "file": "E_driving_base/E04_hub_direction_step9.png",
+    "title": "드라이빙 베이스 1 단계 9: Hub 방향",
+    "ids": [
+      "E04"
+    ],
+    "state": "실제 앱의 공식 조립도. 실물 조립 미검증",
+    "url": "https://spike.legoeducation.com/prime/models/bltc58e302d70cf6530",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 원본 화면 캡처",
+    "language": "한국어"
+  },
+  {
+    "file": "E_driving_base/E05_motors_wheels_step32.png",
+    "title": "드라이빙 베이스 1 단계 32: 모터 부착과 양쪽 바퀴",
+    "ids": [
+      "E05",
+      "E06"
+    ],
+    "state": "실제 앱 공식 조립도. 바퀴는 조립 완료 모습이며 실물 조립은 미검증",
+    "url": "https://spike.legoeducation.com/prime/models/bltc58e302d70cf6530",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 원본 화면 캡처",
+    "language": "한국어"
+  },
+  {
+    "file": "L_python/L08_distance_code_detail.png",
+    "title": "Python 거리 제어 코드 확대",
+    "ids": [
+      "L04",
+      "L05",
+      "L06",
+      "L08",
+      "L09"
+    ],
+    "state": "실제 편집기 입력 화면. 실물 Hub 실행 미검증",
+    "method": "Playwright MCP 원본 편집기 영역 캡처",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP 원본 편집기 영역 캡처",
+    "url": "https://spike.legoeducation.com/ (개별 프로젝트 URL 미기록)",
+    "language": "한국어"
+  },
+  {
+    "file": "G_force/G02_sensor_readable.png",
+    "title": "센서 도구 상자 상단 / 읽기용 부분 화면",
+    "ids": [
+      "G02",
+      "H02",
+      "I02",
+      "I03"
+    ],
+    "state": "실제 SPIKE 편집기 화면. Hub 미연결, 실물 실행 미검증",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP로 실제 앱의 블록·Python 영역을 직접 캡처. 센서 블록은 실제 작업 공간에서 D/C/B 포트와 cm·요 각도를 선택. 이미지 합성 없음",
+    "url": "https://spike.legoeducation.com/prime/project",
+    "language": "한국어",
+    "method": "Playwright MCP로 실제 앱의 블록·Python 영역을 직접 캡처. 센서 블록은 실제 작업 공간에서 D/C/B 포트와 cm·요 각도를 선택. 이미지 합성 없음",
+    "viewport": "2200×1600"
+  },
+  {
+    "file": "J_gyro/J06_condition_detail.png",
+    "title": "자이로 오차의 부호에 따른 회전 보정 / 읽기용 부분 화면",
+    "ids": [
+      "J06",
+      "O07"
+    ],
+    "state": "실제 SPIKE 편집기 화면. Hub 미연결, 실물 실행 미검증",
+    "method": "Playwright MCP로 실제 앱의 블록·Python 영역을 직접 캡처. 센서 블록은 실제 작업 공간에서 D/C/B 포트와 cm·요 각도를 선택. 이미지 합성 없음",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP로 실제 앱의 블록·Python 영역을 직접 캡처. 센서 블록은 실제 작업 공간에서 D/C/B 포트와 cm·요 각도를 선택. 이미지 합성 없음",
+    "url": "https://spike.legoeducation.com/prime/project",
+    "language": "한국어",
+    "viewport": "2200×1600"
+  },
+  {
+    "file": "O_advanced/O08_stop_condition.png",
+    "title": "거리 정지 우선·컬러 반사광 주행 / 읽기용 부분 화면",
+    "ids": [
+      "O08"
+    ],
+    "state": "실제 SPIKE 편집기 화면. Hub 미연결, 실물 실행 미검증",
+    "method": "Playwright MCP로 실제 앱의 블록·Python 영역을 직접 캡처. 센서 블록은 실제 작업 공간에서 D/C/B 포트와 cm·요 각도를 선택. 이미지 합성 없음",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP로 실제 앱의 블록·Python 영역을 직접 캡처. 센서 블록은 실제 작업 공간에서 D/C/B 포트와 cm·요 각도를 선택. 이미지 합성 없음",
+    "url": "https://spike.legoeducation.com/prime/project",
+    "language": "한국어",
+    "viewport": "2200×1600"
+  },
+  {
+    "file": "L_python/L07_speed_readable.png",
+    "title": "거리·속도 계산 함수 Python 편집 화면 / 읽기용 부분 화면",
+    "ids": [
+      "L07",
+      "H06",
+      "P03"
+    ],
+    "state": "실제 SPIKE 편집기 화면. Hub 미연결, 실물 실행 미검증",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP로 실제 앱의 블록·Python 영역을 직접 캡처. 센서 블록은 실제 작업 공간에서 D/C/B 포트와 cm·요 각도를 선택. 이미지 합성 없음",
+    "url": "https://spike.legoeducation.com/prime/project",
+    "language": "한국어",
+    "method": "Playwright MCP로 실제 앱의 블록·Python 영역을 직접 캡처. 센서 블록은 실제 작업 공간에서 D/C/B 포트와 cm·요 각도를 선택. 이미지 합성 없음",
+    "viewport": "2200×1600"
+  },
+  {
+    "file": "L_python/L08_distance_readable.png",
+    "title": "Python 거리 제어 코드 확대 / 읽기용 부분 화면",
+    "ids": [
+      "L04",
+      "L05",
+      "L06",
+      "L08",
+      "L09"
+    ],
+    "state": "실제 SPIKE 편집기 화면. Hub 미연결, 실물 실행 미검증",
+    "method": "Playwright MCP로 실제 앱의 블록·Python 영역을 직접 캡처. 센서 블록은 실제 작업 공간에서 D/C/B 포트와 cm·요 각도를 선택. 이미지 합성 없음",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP로 실제 앱의 블록·Python 영역을 직접 캡처. 센서 블록은 실제 작업 공간에서 D/C/B 포트와 cm·요 각도를 선택. 이미지 합성 없음",
+    "url": "https://spike.legoeducation.com/prime/project",
+    "language": "한국어",
+    "viewport": "2200×1600"
+  },
+  {
+    "file": "O_advanced/O06_calculation_detail.png",
+    "title": "오차 변수·계산·조향 제한 P 제어 / 읽기용 부분 화면",
+    "ids": [
+      "O04",
+      "O05",
+      "O06",
+      "P03"
+    ],
+    "state": "실제 SPIKE 편집기 화면. Hub 미연결, 실물 실행 미검증",
+    "method": "Playwright MCP로 실제 앱의 블록·Python 영역을 직접 캡처. 센서 블록은 실제 작업 공간에서 D/C/B 포트와 cm·요 각도를 선택. 이미지 합성 없음",
+    "date": "2026-10-10",
+    "version": "3.6.1 (동일 세션 설정에서 확인)",
+    "browser": "Chrome 154.0.0.0 / macOS",
+    "capture_method": "Playwright MCP로 실제 앱의 블록·Python 영역을 직접 캡처. 센서 블록은 실제 작업 공간에서 D/C/B 포트와 cm·요 각도를 선택. 이미지 합성 없음",
+    "url": "https://spike.legoeducation.com/prime/project",
+    "language": "한국어",
+    "viewport": "2200×1600"
+  }
+]
